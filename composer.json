@@ -1,5 +1,5 @@
 {
-    "name": "wg-rolf/jquery-dialogextend",
+    "name": "wg-rolf/compass-mixins",
     "type": "component",
     "require": {
         "components/jquery" : ">=1.10",
