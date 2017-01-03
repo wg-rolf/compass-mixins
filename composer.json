@@ -1,0 +1,8 @@
+{
+    "name": "wg-rolf/jquery-dialogextend",
+    "type": "component",
+    "require": {
+        "components/jquery" : ">=1.10",
+        "robloach/component-installer": "*"
+    }
+}
